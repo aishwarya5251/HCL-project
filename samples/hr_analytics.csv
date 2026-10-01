@@ -1,0 +1,151 @@
+Employee_ID,Age,Department,Job_Role,Years_At_Company,Annual_Salary,Job_Satisfaction,Performance_Rating,Attrition
+EMP-1001,58,Engineering,QA Engineer,7,126538,3,Exceeds Expectations,No
+EMP-1002,23,Engineering,DevOps,2,101547,2,Outstanding,No
+EMP-1003,49,Marketing,Marketing Specialist,14,117573,2,Meets Expectations,No
+EMP-1004,41,Engineering,DevOps,12,131228,3,Meets Expectations,No
+EMP-1005,29,Product,Product Analyst,8,132869,3,Outstanding,No
+EMP-1006,28,Sales,Sales Exec,3,83688,3,Meets Expectations,Yes
+EMP-1007,53,Engineering,Senior Dev,8,121278,4,Exceeds Expectations,No
+EMP-1008,42,Product,Product Analyst,14,153966,5,Meets Expectations,No
+EMP-1009,41,Human Resources,Recruiter,13,97872,3,Needs Improvement,No
+EMP-1010,50,Marketing,Content Strategist,1,85846,1,Exceeds Expectations,Yes
+EMP-1011,51,Engineering,DevOps,10,119957,3,Exceeds Expectations,No
+EMP-1012,34,Human Resources,HR Manager,6,72700,4,Meets Expectations,No
+EMP-1013,43,Human Resources,HR Generalist,12,108506,1,Exceeds Expectations,Yes
+EMP-1014,55,Human Resources,Recruiter,9,96341,4,Meets Expectations,No
+EMP-1015,43,Human Resources,Recruiter,11,101568,3,Exceeds Expectations,No
+EMP-1016,28,Engineering,QA Engineer,7,121798,4,Meets Expectations,No
+EMP-1017,43,Product,Product Manager,2,111314,3,Meets Expectations,No
+EMP-1018,27,Human Resources,HR Generalist,5,71719,3,Exceeds Expectations,No
+EMP-1019,55,Sales,Sales Lead,2,81930,4,Meets Expectations,No
+EMP-1020,33,Marketing,Content Strategist,4,76059,3,Exceeds Expectations,Yes
+EMP-1021,26,Sales,Sales Exec,5,97825,4,Meets Expectations,No
+EMP-1022,43,Product,Product Manager,15,151970,4,Meets Expectations,No
+EMP-1023,32,Sales,Sales Exec,11,104421,3,Meets Expectations,No
+EMP-1024,40,Sales,Account Manager,13,114350,4,Meets Expectations,No
+EMP-1025,34,Marketing,Content Strategist,6,90090,4,Meets Expectations,No
+EMP-1026,54,Marketing,Content Strategist,9,92853,3,Meets Expectations,No
+EMP-1027,38,Product,Product Manager,1,102444,4,Exceeds Expectations,No
+EMP-1028,40,Engineering,Software Engineer,2,103105,4,Meets Expectations,No
+EMP-1029,27,Sales,Account Manager,6,95914,2,Meets Expectations,Yes
+EMP-1030,25,Engineering,DevOps,4,104251,3,Meets Expectations,No
+EMP-1031,23,Marketing,Marketing Specialist,2,71102,5,Exceeds Expectations,No
+EMP-1032,24,Sales,Sales Exec,3,86224,5,Meets Expectations,No
+EMP-1033,22,Human Resources,Recruiter,1,55063,1,Meets Expectations,No
+EMP-1034,55,Product,Product Analyst,7,117547,2,Meets Expectations,Yes
+EMP-1035,48,Engineering,Senior Dev,11,125170,4,Meets Expectations,No
+EMP-1036,56,Human Resources,HR Manager,1,63705,4,Meets Expectations,No
+EMP-1037,22,Marketing,Content Strategist,1,73376,3,Meets Expectations,Yes
+EMP-1038,26,Engineering,QA Engineer,5,121327,3,Exceeds Expectations,No
+EMP-1039,52,Engineering,DevOps,1,104203,4,Outstanding,No
+EMP-1040,26,Engineering,QA Engineer,5,109880,2,Exceeds Expectations,Yes
+EMP-1041,43,Product,Product Analyst,3,114466,1,Meets Expectations,No
+EMP-1042,51,Sales,Sales Lead,12,106382,3,Meets Expectations,No
+EMP-1043,40,Human Resources,HR Generalist,4,74670,1,Meets Expectations,Yes
+EMP-1044,47,Marketing,SEO Lead,14,110779,3,Meets Expectations,No
+EMP-1045,44,Sales,Account Manager,14,122059,4,Exceeds Expectations,No
+EMP-1046,49,Engineering,QA Engineer,15,137209,3,Meets Expectations,No
+EMP-1047,53,Marketing,Marketing Specialist,12,110035,3,Outstanding,No
+EMP-1048,27,Engineering,DevOps,6,124929,4,Exceeds Expectations,No
+EMP-1049,27,Marketing,Marketing Specialist,6,86438,4,Meets Expectations,No
+EMP-1050,50,Human Resources,HR Generalist,6,84011,3,Exceeds Expectations,No
+EMP-1051,39,Product,UX Designer,11,145031,5,Outstanding,Yes
+EMP-1052,54,Human Resources,Recruiter,13,100791,4,Meets Expectations,Yes
+EMP-1053,50,Product,Product Analyst,1,109768,2,Meets Expectations,No
+EMP-1054,58,Marketing,Content Strategist,1,71288,4,Exceeds Expectations,No
+EMP-1055,26,Marketing,Content Strategist,5,84683,2,Meets Expectations,Yes
+EMP-1056,29,Marketing,Marketing Specialist,1,65788,4,Meets Expectations,No
+EMP-1057,38,Product,Product Manager,13,146771,3,Meets Expectations,No
+EMP-1058,53,Marketing,SEO Lead,4,84285,2,Exceeds Expectations,No
+EMP-1059,42,Human Resources,HR Generalist,11,107358,3,Needs Improvement,No
+EMP-1060,33,Marketing,Marketing Specialist,12,113114,3,Meets Expectations,No
+EMP-1061,53,Sales,Sales Exec,1,93272,3,Meets Expectations,No
+EMP-1062,27,Product,Product Manager,2,106028,3,Outstanding,No
+EMP-1063,48,Product,UX Designer,14,155906,3,Meets Expectations,No
+EMP-1064,51,Engineering,DevOps,11,131483,3,Meets Expectations,No
+EMP-1065,33,Product,Product Analyst,12,158728,5,Meets Expectations,No
+EMP-1066,55,Engineering,Software Engineer,3,98941,3,Meets Expectations,No
+EMP-1067,55,Sales,Account Manager,15,117121,3,Needs Improvement,No
+EMP-1068,30,Product,UX Designer,9,129604,3,Meets Expectations,No
+EMP-1069,31,Sales,Sales Lead,3,69732,4,Exceeds Expectations,No
+EMP-1070,23,Product,Product Manager,2,107719,1,Exceeds Expectations,No
+EMP-1071,48,Sales,Sales Lead,10,101686,4,Meets Expectations,No
+EMP-1072,41,Marketing,SEO Lead,8,94652,2,Exceeds Expectations,No
+EMP-1073,25,Human Resources,HR Generalist,3,73992,3,Meets Expectations,No
+EMP-1074,42,Product,Product Manager,14,162933,4,Exceeds Expectations,No
+EMP-1075,45,Human Resources,HR Generalist,9,97452,3,Meets Expectations,No
+EMP-1076,37,Marketing,Content Strategist,3,73561,1,Meets Expectations,Yes
+EMP-1077,37,Product,UX Designer,14,143511,5,Exceeds Expectations,No
+EMP-1078,32,Marketing,Marketing Specialist,8,97043,5,Meets Expectations,No
+EMP-1079,27,Human Resources,HR Generalist,6,71958,3,Outstanding,No
+EMP-1080,25,Marketing,Marketing Specialist,4,93620,3,Exceeds Expectations,No
+EMP-1081,56,Human Resources,Recruiter,1,73456,4,Meets Expectations,No
+EMP-1082,45,Marketing,Content Strategist,1,67915,3,Meets Expectations,Yes
+EMP-1083,26,Product,UX Designer,5,109008,3,Exceeds Expectations,No
+EMP-1084,29,Product,Product Analyst,3,124077,5,Meets Expectations,No
+EMP-1085,45,Marketing,SEO Lead,13,108798,2,Exceeds Expectations,No
+EMP-1086,24,Engineering,Software Engineer,3,113264,4,Exceeds Expectations,No
+EMP-1087,54,Sales,Sales Lead,3,73439,3,Exceeds Expectations,Yes
+EMP-1088,41,Product,Product Analyst,10,132804,3,Exceeds Expectations,No
+EMP-1089,52,Product,UX Designer,14,149836,1,Meets Expectations,Yes
+EMP-1090,41,Human Resources,HR Manager,13,103928,5,Exceeds Expectations,No
+EMP-1091,38,Product,UX Designer,11,137049,4,Exceeds Expectations,No
+EMP-1092,32,Engineering,DevOps,9,128159,4,Exceeds Expectations,No
+EMP-1093,37,Sales,Sales Lead,1,70726,3,Exceeds Expectations,Yes
+EMP-1094,48,Human Resources,Recruiter,3,70603,3,Meets Expectations,No
+EMP-1095,25,Product,UX Designer,4,118642,2,Meets Expectations,Yes
+EMP-1096,46,Human Resources,HR Manager,6,84801,5,Meets Expectations,No
+EMP-1097,38,Product,UX Designer,10,141981,3,Outstanding,No
+EMP-1098,41,Marketing,Marketing Specialist,13,101727,3,Meets Expectations,No
+EMP-1099,44,Marketing,Content Strategist,9,86061,5,Exceeds Expectations,No
+EMP-1100,47,Engineering,DevOps,14,148743,3,Exceeds Expectations,No
+EMP-1101,27,Engineering,QA Engineer,6,116526,5,Exceeds Expectations,No
+EMP-1102,56,Sales,Sales Exec,5,85760,5,Exceeds Expectations,Yes
+EMP-1103,37,Product,Product Analyst,4,128658,1,Outstanding,Yes
+EMP-1104,28,Sales,Sales Exec,7,98209,3,Meets Expectations,No
+EMP-1105,57,Sales,Sales Exec,15,131255,2,Exceeds Expectations,No
+EMP-1106,34,Human Resources,Recruiter,13,104072,5,Meets Expectations,No
+EMP-1107,56,Engineering,Senior Dev,12,147825,4,Outstanding,No
+EMP-1108,33,Sales,Account Manager,12,125687,5,Outstanding,No
+EMP-1109,40,Human Resources,HR Generalist,15,108257,1,Meets Expectations,No
+EMP-1110,51,Marketing,Content Strategist,11,110000,3,Meets Expectations,No
+EMP-1111,39,Product,UX Designer,4,122317,4,Meets Expectations,No
+EMP-1112,33,Marketing,SEO Lead,1,80780,4,Exceeds Expectations,No
+EMP-1113,47,Sales,Sales Exec,14,113045,3,Meets Expectations,No
+EMP-1114,30,Engineering,Senior Dev,8,125402,3,Meets Expectations,No
+EMP-1115,39,Sales,Account Manager,6,101608,3,Exceeds Expectations,Yes
+EMP-1116,37,Marketing,SEO Lead,1,58888,4,Meets Expectations,Yes
+EMP-1117,41,Product,Product Analyst,12,135117,2,Outstanding,Yes
+EMP-1118,36,Product,Product Manager,3,100325,3,Meets Expectations,No
+EMP-1119,57,Marketing,Content Strategist,15,114114,3,Meets Expectations,No
+EMP-1120,27,Sales,Sales Exec,6,99222,3,Exceeds Expectations,Yes
+EMP-1121,25,Product,Product Manager,4,128316,3,Meets Expectations,No
+EMP-1122,42,Sales,Sales Exec,14,120318,3,Meets Expectations,No
+EMP-1123,27,Product,UX Designer,6,135600,3,Exceeds Expectations,No
+EMP-1124,51,Product,UX Designer,10,127339,1,Meets Expectations,No
+EMP-1125,38,Engineering,DevOps,14,127876,1,Meets Expectations,Yes
+EMP-1126,26,Human Resources,Recruiter,5,77611,5,Outstanding,Yes
+EMP-1127,40,Human Resources,HR Generalist,7,87088,2,Meets Expectations,No
+EMP-1128,46,Human Resources,Recruiter,8,87371,5,Outstanding,No
+EMP-1129,44,Product,Product Manager,2,96927,2,Meets Expectations,No
+EMP-1130,23,Sales,Sales Exec,2,80776,3,Exceeds Expectations,No
+EMP-1131,37,Human Resources,HR Generalist,8,78468,3,Meets Expectations,No
+EMP-1132,48,Engineering,Software Engineer,10,131687,4,Exceeds Expectations,Yes
+EMP-1133,28,Sales,Sales Exec,7,99966,1,Meets Expectations,No
+EMP-1134,24,Engineering,Senior Dev,3,98020,3,Meets Expectations,No
+EMP-1135,54,Engineering,Senior Dev,5,107402,2,Outstanding,No
+EMP-1136,42,Product,Product Analyst,4,110385,3,Meets Expectations,No
+EMP-1137,41,Sales,Account Manager,5,90561,1,Outstanding,No
+EMP-1138,49,Sales,Sales Lead,9,110485,3,Outstanding,No
+EMP-1139,42,Human Resources,HR Manager,12,93499,3,Meets Expectations,No
+EMP-1140,37,Product,UX Designer,14,153328,2,Exceeds Expectations,Yes
+EMP-1141,57,Human Resources,HR Generalist,7,80688,5,Meets Expectations,No
+EMP-1142,35,Sales,Account Manager,6,88649,4,Outstanding,No
+EMP-1143,25,Engineering,Senior Dev,4,107050,3,Exceeds Expectations,Yes
+EMP-1144,57,Engineering,Senior Dev,4,100553,3,Exceeds Expectations,No
+EMP-1145,34,Engineering,Senior Dev,12,129524,2,Outstanding,No
+EMP-1146,35,Sales,Sales Lead,7,89014,5,Meets Expectations,No
+EMP-1147,56,Human Resources,Recruiter,11,110953,3,Meets Expectations,No
+EMP-1148,28,Human Resources,Recruiter,7,84646,5,Meets Expectations,No
+EMP-1149,42,Sales,Account Manager,7,92501,1,Exceeds Expectations,No
+EMP-1150,57,Engineering,QA Engineer,15,144497,3,Exceeds Expectations,No
