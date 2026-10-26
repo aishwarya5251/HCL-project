@@ -1,0 +1,201 @@
+Order_ID,Date,Region,Customer_Segment,Category,Sub_Category,Quantity,Discount,Sales,Profit,Margin_Pct
+ORD-2023001,2023-02-03,Asia Pacific,Consumer,Office Supplies,Storage,5,0.15,186.42,30.72,16.5
+ORD-2023002,2024-02-17,Latin America,Small Business,Technology,Accessories,3,0.2,1284.33,347.29,27.0
+ORD-2023003,2024-01-02,Asia Pacific,Consumer,Office Supplies,Binders,6,0.05,216.39,87.25,40.3
+ORD-2023004,2023-04-19,North America,Corporate,Office Supplies,Storage,1,0.0,35.32,6.72,19.0
+ORD-2023005,2023-07-14,Asia Pacific,Consumer,Technology,Laptops,10,0.0,4998.01,1187.42,23.8
+ORD-2023006,2023-04-30,Latin America,Consumer,Technology,Smartphones,8,0.2,2195.57,349.16,15.9
+ORD-2023007,2023-12-24,Asia Pacific,Consumer,Office Supplies,Pens,9,0.3,354.22,136.83,38.6
+ORD-2023008,2023-02-26,Europe,Corporate,Office Supplies,Storage,6,0.15,197.16,77.87,39.5
+ORD-2023009,2023-01-17,Latin America,Consumer,Technology,Smartphones,2,0.1,755.36,221.0,29.3
+ORD-2023010,2023-05-06,Europe,Consumer,Office Supplies,Binders,2,0.3,63.58,23.06,36.3
+ORD-2023011,2024-01-18,North America,Consumer,Technology,Laptops,6,0.0,3016.2,1231.07,40.8
+ORD-2023012,2024-02-25,Europe,Consumer,Furniture,Tables,9,0.05,1740.46,591.92,34.0
+ORD-2023013,2023-07-17,Latin America,Corporate,Technology,Printers,4,0.0,1842.56,395.13,21.4
+ORD-2023014,2023-01-14,Latin America,Corporate,Furniture,Tables,8,0.3,1071.6,316.9,29.6
+ORD-2023015,2023-10-07,North America,Small Business,Technology,Printers,6,0.0,2984.71,1301.53,43.6
+ORD-2023016,2023-08-24,Europe,Consumer,Technology,Printers,7,0.05,3335.22,1330.23,39.9
+ORD-2023017,2023-05-31,Latin America,Corporate,Technology,Laptops,9,0.0,3195.58,528.34,16.5
+ORD-2023018,2024-04-01,North America,Consumer,Technology,Smartphones,7,0.15,3559.41,738.51,20.7
+ORD-2023019,2023-04-23,Europe,Consumer,Furniture,Chairs,7,0.0,1436.46,604.32,42.1
+ORD-2023020,2023-07-09,Asia Pacific,Corporate,Furniture,Bookcases,9,0.3,1608.51,511.43,31.8
+ORD-2023021,2023-11-02,Latin America,Corporate,Technology,Smartphones,4,0.0,1481.8,446.68,30.1
+ORD-2023022,2023-07-22,North America,Consumer,Office Supplies,Storage,1,0.2,27.74,4.92,17.7
+ORD-2023023,2023-10-13,Europe,Consumer,Technology,Laptops,2,0.2,651.79,163.76,25.1
+ORD-2023024,2023-01-17,Europe,Small Business,Furniture,Chairs,4,0.2,659.67,193.93,29.4
+ORD-2023025,2023-08-23,North America,Corporate,Office Supplies,Paper,10,0.2,388.09,153.12,39.5
+ORD-2023026,2024-02-17,Asia Pacific,Small Business,Furniture,Desks,6,0.05,1670.02,363.16,21.7
+ORD-2023027,2024-04-17,Latin America,Corporate,Technology,Accessories,6,0.0,3546.99,643.96,18.2
+ORD-2023028,2023-01-13,Latin America,Consumer,Office Supplies,Paper,9,0.05,426.59,73.99,17.3
+ORD-2023029,2023-01-29,Asia Pacific,Consumer,Technology,Accessories,4,0.1,1301.01,508.96,39.1
+ORD-2023030,2024-02-29,Europe,Small Business,Furniture,Bookcases,9,0.0,1538.73,542.25,35.2
+ORD-2023031,2023-09-18,Asia Pacific,Consumer,Office Supplies,Paper,5,0.0,221.22,81.54,36.9
+ORD-2023032,2024-01-02,Europe,Small Business,Furniture,Bookcases,4,0.3,768.3,263.51,34.3
+ORD-2023033,2023-02-10,Europe,Small Business,Office Supplies,Storage,8,0.1,297.61,85.47,28.7
+ORD-2023034,2023-10-07,North America,Corporate,Office Supplies,Pens,1,0.0,37.55,7.86,20.9
+ORD-2023035,2024-01-31,Europe,Consumer,Office Supplies,Storage,8,0.2,228.88,35.23,15.4
+ORD-2023036,2024-02-10,Latin America,Consumer,Office Supplies,Paper,2,0.3,76.44,29.84,39.0
+ORD-2023037,2023-01-04,North America,Corporate,Furniture,Desks,3,0.0,497.19,102.1,20.5
+ORD-2023038,2023-10-23,Asia Pacific,Consumer,Technology,Accessories,4,0.3,1479.38,342.18,23.1
+ORD-2023039,2023-04-12,Asia Pacific,Small Business,Office Supplies,Pens,3,0.05,155.54,66.54,42.8
+ORD-2023040,2023-03-23,Europe,Consumer,Furniture,Chairs,6,0.15,1082.82,449.63,41.5
+ORD-2023041,2023-09-10,Europe,Small Business,Furniture,Desks,2,0.15,474.18,124.71,26.3
+ORD-2023042,2023-02-22,Latin America,Corporate,Technology,Smartphones,6,0.1,2304.95,993.28,43.1
+ORD-2023043,2023-11-06,Europe,Corporate,Technology,Smartphones,6,0.1,2275.91,802.13,35.2
+ORD-2023044,2023-01-17,Asia Pacific,Small Business,Furniture,Tables,9,0.1,2116.59,547.63,25.9
+ORD-2023045,2023-03-13,North America,Small Business,Furniture,Desks,5,0.0,1410.56,434.93,30.8
+ORD-2023046,2024-01-02,Latin America,Corporate,Furniture,Bookcases,10,0.2,1446.29,341.36,23.6
+ORD-2023047,2023-12-26,Latin America,Corporate,Office Supplies,Binders,1,0.3,38.0,10.7,28.2
+ORD-2023048,2023-03-29,North America,Corporate,Office Supplies,Binders,7,0.0,381.96,115.3,30.2
+ORD-2023049,2023-09-18,Asia Pacific,Small Business,Office Supplies,Storage,2,0.3,67.01,21.56,32.2
+ORD-2023050,2024-03-17,Asia Pacific,Corporate,Office Supplies,Pens,7,0.3,168.74,70.47,41.8
+ORD-2023051,2024-03-29,Europe,Small Business,Technology,Printers,7,0.3,1695.33,439.22,25.9
+ORD-2023052,2024-05-12,Europe,Corporate,Office Supplies,Storage,9,0.0,380.14,113.06,29.7
+ORD-2023053,2023-07-05,Asia Pacific,Small Business,Technology,Printers,10,0.3,4077.8,1530.04,37.5
+ORD-2023054,2023-01-24,Latin America,Small Business,Furniture,Tables,4,0.2,701.35,156.64,22.3
+ORD-2023055,2023-12-19,Europe,Corporate,Office Supplies,Paper,9,0.3,251.54,107.38,42.7
+ORD-2023056,2023-10-27,Asia Pacific,Small Business,Technology,Smartphones,5,0.05,1974.73,793.12,40.2
+ORD-2023057,2023-06-22,Europe,Consumer,Technology,Laptops,8,0.2,3766.52,781.79,20.8
+ORD-2023058,2023-12-15,North America,Small Business,Furniture,Tables,10,0.05,2361.79,445.34,18.9
+ORD-2023059,2023-11-02,Latin America,Consumer,Furniture,Tables,3,0.3,569.28,224.31,39.4
+ORD-2023060,2023-02-26,North America,Consumer,Technology,Printers,3,0.3,1214.83,350.11,28.8
+ORD-2023061,2023-01-17,Latin America,Consumer,Technology,Smartphones,8,0.05,4221.87,764.89,18.1
+ORD-2023062,2023-05-19,Asia Pacific,Small Business,Furniture,Tables,8,0.05,1573.02,655.92,41.7
+ORD-2023063,2023-05-09,Latin America,Consumer,Furniture,Bookcases,5,0.2,780.35,251.17,32.2
+ORD-2023064,2023-12-17,Europe,Consumer,Furniture,Tables,5,0.05,1296.65,248.67,19.2
+ORD-2023065,2023-02-10,Asia Pacific,Consumer,Furniture,Chairs,3,0.05,472.87,140.34,29.7
+ORD-2023066,2023-03-25,Europe,Consumer,Office Supplies,Binders,7,0.15,267.87,102.69,38.3
+ORD-2023067,2023-04-27,Latin America,Consumer,Furniture,Chairs,7,0.15,1075.89,375.18,34.9
+ORD-2023068,2024-01-05,North America,Corporate,Office Supplies,Pens,1,0.1,53.29,18.81,35.3
+ORD-2023069,2024-03-17,Latin America,Corporate,Furniture,Desks,4,0.1,840.53,200.97,23.9
+ORD-2023070,2023-03-29,Latin America,Corporate,Technology,Printers,7,0.3,2134.83,338.3,15.8
+ORD-2023071,2023-12-24,Latin America,Corporate,Technology,Laptops,10,0.2,4778.89,1789.53,37.4
+ORD-2023072,2023-03-12,North America,Consumer,Technology,Printers,8,0.05,3585.35,1289.78,36.0
+ORD-2023073,2024-04-01,Asia Pacific,Consumer,Furniture,Bookcases,8,0.1,1458.71,640.28,43.9
+ORD-2023074,2023-05-29,Latin America,Corporate,Furniture,Tables,2,0.15,417.29,124.85,29.9
+ORD-2023075,2023-05-21,North America,Small Business,Furniture,Desks,2,0.3,240.51,88.12,36.6
+ORD-2023076,2023-12-13,North America,Consumer,Technology,Smartphones,10,0.05,5535.95,2093.32,37.8
+ORD-2023077,2023-01-23,Europe,Small Business,Furniture,Chairs,4,0.15,626.03,189.79,30.3
+ORD-2023078,2023-03-23,Asia Pacific,Small Business,Furniture,Desks,10,0.3,2065.74,779.58,37.7
+ORD-2023079,2023-11-02,North America,Consumer,Technology,Accessories,10,0.0,5189.77,1149.61,22.2
+ORD-2023080,2023-04-09,Latin America,Consumer,Furniture,Desks,10,0.3,1374.58,318.26,23.2
+ORD-2023081,2023-05-15,Europe,Small Business,Technology,Accessories,10,0.0,4368.01,1137.03,26.0
+ORD-2023082,2023-06-11,North America,Small Business,Furniture,Tables,6,0.0,1491.76,431.52,28.9
+ORD-2023083,2023-01-29,Asia Pacific,Corporate,Technology,Printers,2,0.15,615.19,122.67,19.9
+ORD-2023084,2023-07-14,Latin America,Corporate,Office Supplies,Binders,3,0.3,89.06,35.09,39.4
+ORD-2023085,2024-02-17,Asia Pacific,Corporate,Office Supplies,Pens,7,0.3,170.77,46.57,27.3
+ORD-2023086,2023-11-26,Asia Pacific,Consumer,Furniture,Desks,5,0.15,1081.36,481.23,44.5
+ORD-2023087,2024-01-09,Latin America,Corporate,Office Supplies,Pens,1,0.15,40.44,15.45,38.2
+ORD-2023088,2023-12-05,Europe,Corporate,Furniture,Desks,5,0.1,1125.73,447.69,39.8
+ORD-2023089,2023-05-31,Asia Pacific,Small Business,Office Supplies,Paper,4,0.0,209.62,70.01,33.4
+ORD-2023090,2023-01-23,Latin America,Small Business,Furniture,Desks,8,0.3,1616.43,660.71,40.9
+ORD-2023091,2023-08-05,Latin America,Consumer,Furniture,Chairs,5,0.05,997.6,414.96,41.6
+ORD-2023092,2023-05-17,Europe,Corporate,Furniture,Bookcases,9,0.2,2066.83,386.08,18.7
+ORD-2023093,2024-03-13,Latin America,Corporate,Office Supplies,Storage,8,0.1,293.14,73.87,25.2
+ORD-2023094,2023-10-23,Asia Pacific,Small Business,Technology,Laptops,4,0.1,2009.34,569.53,28.3
+ORD-2023095,2023-10-07,Europe,Small Business,Technology,Smartphones,8,0.1,3459.64,1305.82,37.7
+ORD-2023096,2023-07-17,Asia Pacific,Corporate,Technology,Smartphones,4,0.1,1305.5,236.08,18.1
+ORD-2023097,2023-05-23,Asia Pacific,Corporate,Technology,Smartphones,1,0.0,580.61,151.0,26.0
+ORD-2023098,2023-10-18,Asia Pacific,Small Business,Office Supplies,Binders,8,0.0,343.23,118.5,34.5
+ORD-2023099,2024-01-15,Asia Pacific,Corporate,Furniture,Tables,6,0.05,1486.71,268.9,18.1
+ORD-2023100,2023-10-07,Asia Pacific,Consumer,Furniture,Chairs,7,0.15,1678.47,362.61,21.6
+ORD-2023101,2023-01-16,North America,Small Business,Technology,Smartphones,5,0.0,2554.24,1084.93,42.5
+ORD-2023102,2023-08-24,North America,Small Business,Office Supplies,Pens,10,0.2,304.91,55.02,18.0
+ORD-2023103,2023-06-26,Latin America,Corporate,Furniture,Tables,10,0.15,2082.91,931.56,44.7
+ORD-2023104,2023-10-23,North America,Consumer,Office Supplies,Paper,4,0.1,131.36,32.96,25.1
+ORD-2023105,2023-03-12,North America,Consumer,Technology,Smartphones,9,0.0,3049.8,1225.28,40.2
+ORD-2023106,2024-02-17,North America,Small Business,Furniture,Tables,10,0.15,2018.18,489.27,24.2
+ORD-2023107,2023-11-13,North America,Small Business,Technology,Accessories,5,0.3,1797.35,687.88,38.3
+ORD-2023108,2023-08-25,North America,Corporate,Office Supplies,Binders,10,0.3,370.85,140.49,37.9
+ORD-2023109,2023-06-22,Latin America,Small Business,Technology,Smartphones,3,0.1,1148.47,259.61,22.6
+ORD-2023110,2024-02-19,North America,Corporate,Technology,Smartphones,10,0.3,3590.31,700.95,19.5
+ORD-2023111,2023-04-19,Asia Pacific,Corporate,Furniture,Chairs,5,0.3,881.32,246.34,28.0
+ORD-2023112,2023-05-17,Asia Pacific,Corporate,Office Supplies,Pens,2,0.2,58.05,19.72,34.0
+ORD-2023113,2023-12-13,Latin America,Small Business,Office Supplies,Storage,5,0.0,204.55,77.08,37.7
+ORD-2023114,2023-11-05,Europe,Small Business,Office Supplies,Paper,5,0.2,240.09,79.73,33.2
+ORD-2023115,2023-12-13,Europe,Corporate,Furniture,Tables,3,0.2,678.6,176.88,26.1
+ORD-2023116,2023-03-29,Latin America,Corporate,Technology,Printers,7,0.1,3478.22,1040.71,29.9
+ORD-2023117,2023-01-24,North America,Corporate,Technology,Accessories,8,0.1,3551.5,1073.42,30.2
+ORD-2023118,2023-03-12,Latin America,Corporate,Office Supplies,Paper,2,0.1,70.24,16.38,23.3
+ORD-2023119,2023-10-02,Asia Pacific,Small Business,Technology,Printers,1,0.3,289.32,128.08,44.3
+ORD-2023120,2023-04-19,Latin America,Consumer,Furniture,Chairs,9,0.1,2026.64,804.31,39.7
+ORD-2023121,2023-10-03,Latin America,Consumer,Office Supplies,Pens,4,0.1,212.91,34.88,16.4
+ORD-2023122,2024-04-27,Europe,Small Business,Furniture,Tables,8,0.0,2286.1,774.88,33.9
+ORD-2023123,2023-03-13,Europe,Corporate,Office Supplies,Binders,9,0.0,307.51,52.74,17.2
+ORD-2023124,2023-10-18,Latin America,Consumer,Technology,Smartphones,8,0.0,3624.88,579.99,16.0
+ORD-2023125,2023-10-26,Europe,Small Business,Furniture,Bookcases,5,0.15,1241.84,241.04,19.4
+ORD-2023126,2023-04-23,Latin America,Small Business,Technology,Printers,3,0.15,1063.35,355.66,33.4
+ORD-2023127,2024-05-05,Europe,Corporate,Technology,Accessories,6,0.2,2723.07,966.48,35.5
+ORD-2023128,2023-07-13,North America,Small Business,Furniture,Bookcases,10,0.3,1311.61,371.13,28.3
+ORD-2023129,2023-06-16,Europe,Corporate,Furniture,Tables,6,0.2,1385.15,334.09,24.1
+ORD-2023130,2023-01-06,Latin America,Consumer,Furniture,Bookcases,4,0.2,768.79,323.54,42.1
+ORD-2023131,2023-03-25,Europe,Corporate,Furniture,Chairs,8,0.3,1378.61,210.91,15.3
+ORD-2023132,2023-07-06,Latin America,Corporate,Office Supplies,Binders,1,0.05,35.66,10.5,29.4
+ORD-2023133,2024-02-02,Asia Pacific,Consumer,Technology,Printers,9,0.15,4394.09,1000.84,22.8
+ORD-2023134,2024-01-15,Europe,Consumer,Furniture,Desks,8,0.1,1850.44,442.73,23.9
+ORD-2023135,2023-05-29,Latin America,Corporate,Office Supplies,Paper,9,0.15,332.44,120.32,36.2
+ORD-2023136,2023-02-05,Latin America,Small Business,Office Supplies,Paper,2,0.05,105.65,21.87,20.7
+ORD-2023137,2024-01-18,Asia Pacific,Corporate,Technology,Laptops,2,0.3,800.25,140.87,17.6
+ORD-2023138,2024-02-10,North America,Small Business,Furniture,Desks,5,0.0,1162.49,348.22,30.0
+ORD-2023139,2024-01-15,Asia Pacific,Corporate,Technology,Accessories,6,0.15,2820.5,719.26,25.5
+ORD-2023140,2024-03-21,Europe,Small Business,Office Supplies,Pens,3,0.05,150.2,31.73,21.1
+ORD-2023141,2023-06-24,North America,Small Business,Office Supplies,Pens,4,0.15,196.45,68.48,34.9
+ORD-2023142,2024-03-28,Europe,Small Business,Technology,Printers,5,0.15,1865.36,786.82,42.2
+ORD-2023143,2023-03-05,North America,Small Business,Furniture,Bookcases,9,0.05,2063.4,906.28,43.9
+ORD-2023144,2023-01-16,Latin America,Small Business,Furniture,Bookcases,7,0.3,1109.65,318.7,28.7
+ORD-2023145,2023-10-02,Latin America,Corporate,Furniture,Desks,8,0.0,1622.59,442.56,27.3
+ORD-2023146,2024-02-18,Latin America,Small Business,Office Supplies,Storage,5,0.3,121.01,53.1,43.9
+ORD-2023147,2024-03-29,North America,Corporate,Office Supplies,Pens,1,0.2,44.77,15.31,34.2
+ORD-2023148,2024-03-16,North America,Corporate,Office Supplies,Pens,4,0.2,118.98,34.9,29.3
+ORD-2023149,2024-03-19,Europe,Small Business,Office Supplies,Binders,5,0.3,190.89,73.54,38.5
+ORD-2023150,2024-03-16,Europe,Small Business,Office Supplies,Paper,1,0.1,45.51,19.31,42.4
+ORD-2023151,2023-10-01,North America,Small Business,Office Supplies,Storage,3,0.0,105.44,30.64,29.1
+ORD-2023152,2024-03-29,Asia Pacific,Consumer,Office Supplies,Pens,4,0.05,183.72,47.54,25.9
+ORD-2023153,2023-04-19,Asia Pacific,Consumer,Office Supplies,Storage,5,0.15,226.76,35.66,15.7
+ORD-2023154,2024-03-29,Asia Pacific,Consumer,Technology,Printers,3,0.05,1359.17,479.94,35.3
+ORD-2023155,2024-01-22,Latin America,Consumer,Office Supplies,Storage,7,0.0,386.54,142.54,36.9
+ORD-2023156,2024-04-17,North America,Small Business,Furniture,Bookcases,5,0.2,891.78,380.31,42.6
+ORD-2023157,2023-07-06,Asia Pacific,Corporate,Technology,Smartphones,1,0.2,275.48,44.41,16.1
+ORD-2023158,2024-01-03,Asia Pacific,Small Business,Office Supplies,Binders,2,0.3,78.85,19.02,24.1
+ORD-2023159,2023-05-19,Asia Pacific,Consumer,Office Supplies,Pens,3,0.0,134.38,53.48,39.8
+ORD-2023160,2023-02-22,Asia Pacific,Consumer,Furniture,Chairs,4,0.2,594.08,222.74,37.5
+ORD-2023161,2023-10-29,Latin America,Small Business,Furniture,Bookcases,9,0.15,1816.86,428.09,23.6
+ORD-2023162,2024-04-13,Europe,Corporate,Furniture,Chairs,10,0.15,2143.24,784.47,36.6
+ORD-2023163,2023-05-31,North America,Consumer,Office Supplies,Storage,8,0.15,404.81,92.55,22.9
+ORD-2023164,2024-02-18,Asia Pacific,Small Business,Technology,Accessories,6,0.0,2923.05,778.95,26.6
+ORD-2023165,2023-04-18,Asia Pacific,Corporate,Technology,Laptops,2,0.3,631.11,237.1,37.6
+ORD-2023166,2023-02-19,North America,Consumer,Technology,Accessories,3,0.2,1040.67,231.7,22.3
+ORD-2023167,2023-02-17,North America,Small Business,Office Supplies,Binders,4,0.05,129.73,53.86,41.5
+ORD-2023168,2023-04-27,Europe,Corporate,Office Supplies,Paper,3,0.05,99.73,43.66,43.8
+ORD-2023169,2023-04-19,Asia Pacific,Small Business,Technology,Laptops,1,0.05,540.05,129.02,23.9
+ORD-2023170,2024-01-15,Asia Pacific,Consumer,Technology,Accessories,3,0.1,1256.92,528.72,42.1
+ORD-2023171,2023-10-07,Europe,Small Business,Office Supplies,Pens,2,0.3,65.83,20.27,30.8
+ORD-2023172,2023-08-05,Latin America,Small Business,Furniture,Bookcases,10,0.0,1878.63,600.87,32.0
+ORD-2023173,2023-03-25,Europe,Small Business,Office Supplies,Paper,9,0.1,360.53,95.63,26.5
+ORD-2023174,2023-07-14,North America,Corporate,Technology,Printers,7,0.3,2493.98,1088.39,43.6
+ORD-2023175,2024-01-02,Latin America,Consumer,Office Supplies,Pens,2,0.1,78.96,20.71,26.2
+ORD-2023176,2023-03-13,Europe,Corporate,Technology,Smartphones,10,0.3,3313.43,639.67,19.3
+ORD-2023177,2024-03-28,Asia Pacific,Corporate,Furniture,Bookcases,9,0.2,1814.02,727.64,40.1
+ORD-2023178,2023-11-22,North America,Small Business,Office Supplies,Paper,9,0.3,224.63,57.79,25.7
+ORD-2023179,2023-07-03,Latin America,Corporate,Furniture,Desks,6,0.15,859.35,235.69,27.4
+ORD-2023180,2023-12-10,Latin America,Corporate,Office Supplies,Paper,7,0.1,372.56,103.33,27.7
+ORD-2023181,2023-09-18,Asia Pacific,Small Business,Furniture,Desks,8,0.0,1729.91,444.61,25.7
+ORD-2023182,2023-11-05,North America,Consumer,Technology,Printers,6,0.05,2629.0,752.72,28.6
+ORD-2023183,2024-03-24,North America,Small Business,Office Supplies,Storage,2,0.15,100.59,33.61,33.4
+ORD-2023184,2024-03-19,Latin America,Corporate,Office Supplies,Paper,10,0.1,537.32,95.86,17.8
+ORD-2023185,2024-03-19,North America,Consumer,Office Supplies,Binders,8,0.05,296.68,127.33,42.9
+ORD-2023186,2024-01-02,Asia Pacific,Consumer,Office Supplies,Storage,5,0.2,145.88,64.85,44.5
+ORD-2023187,2023-06-26,Latin America,Small Business,Office Supplies,Paper,5,0.0,181.5,44.49,24.5
+ORD-2023188,2023-03-21,Asia Pacific,Corporate,Office Supplies,Storage,6,0.0,214.03,75.83,35.4
+ORD-2023189,2023-03-21,Europe,Consumer,Office Supplies,Pens,3,0.3,118.78,52.62,44.3
+ORD-2023190,2023-10-27,North America,Corporate,Technology,Smartphones,7,0.15,3316.57,1212.02,36.5
+ORD-2023191,2023-02-10,Europe,Small Business,Furniture,Bookcases,6,0.2,866.87,208.9,24.1
+ORD-2023192,2023-08-23,North America,Consumer,Technology,Smartphones,10,0.0,5073.15,947.45,18.7
+ORD-2023193,2023-02-16,North America,Small Business,Furniture,Tables,7,0.15,1559.07,325.78,20.9
+ORD-2023194,2023-03-13,Latin America,Consumer,Furniture,Bookcases,9,0.0,1820.06,722.14,39.7
+ORD-2023195,2024-03-13,Latin America,Small Business,Technology,Accessories,10,0.15,4591.41,954.78,20.8
+ORD-2023196,2023-06-11,Asia Pacific,Corporate,Technology,Smartphones,10,0.0,6049.36,1973.39,32.6
+ORD-2023197,2023-02-27,Europe,Consumer,Furniture,Desks,5,0.1,963.48,209.15,21.7
+ORD-2023198,2023-12-05,North America,Small Business,Technology,Printers,7,0.05,2856.29,487.78,17.1
+ORD-2023199,2023-08-18,Latin America,Small Business,Office Supplies,Binders,9,0.3,358.64,115.23,32.1
+ORD-2023200,2024-03-19,North America,Corporate,Furniture,Chairs,1,0.15,224.5,50.21,22.4

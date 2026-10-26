@@ -1,0 +1,181 @@
+Customer_ID,Subscription_Tier,Contract_Type,Tenure_Months,Monthly_Charges,Total_Charges,Support_Tickets,Churn
+CUST-5001,Basic,One year,15,45.84,687.6,1,No
+CUST-5002,Professional,Two year,42,117.02,4914.84,4,No
+CUST-5003,Professional,Two year,42,95.53,4012.26,2,No
+CUST-5004,Enterprise,One year,11,300.92,3310.12,0,No
+CUST-5005,Basic,Two year,42,44.16,1854.72,7,No
+CUST-5006,Basic,Two year,4,42.71,170.84,3,No
+CUST-5007,Enterprise,Month-to-month,5,298.61,1493.05,2,Yes
+CUST-5008,Enterprise,One year,24,299.23,7181.52,0,No
+CUST-5009,Enterprise,One year,43,303.26,13040.18,1,Yes
+CUST-5010,Enterprise,One year,1,306.11,306.11,0,No
+CUST-5011,Enterprise,One year,2,309.46,618.92,1,No
+CUST-5012,Professional,Month-to-month,7,103.22,722.54,4,Yes
+CUST-5013,Basic,Month-to-month,40,35.56,1422.4,1,No
+CUST-5014,Professional,One year,6,112.69,676.14,1,No
+CUST-5015,Enterprise,Month-to-month,45,294.92,13271.4,0,No
+CUST-5016,Basic,Two year,42,30.31,1273.02,3,Yes
+CUST-5017,Professional,One year,36,111.83,4025.88,1,No
+CUST-5018,Enterprise,Month-to-month,6,316.38,1898.28,1,No
+CUST-5019,Professional,Two year,7,106.79,747.53,4,No
+CUST-5020,Basic,Month-to-month,45,37.3,1678.5,4,Yes
+CUST-5021,Basic,Month-to-month,44,26.68,1173.92,4,No
+CUST-5022,Enterprise,Two year,3,305.19,915.57,0,No
+CUST-5023,Basic,Month-to-month,38,37.32,1418.16,0,No
+CUST-5024,Professional,Month-to-month,20,100.06,2001.2,0,No
+CUST-5025,Professional,Two year,35,100.73,3525.55,1,No
+CUST-5026,Basic,Two year,47,33.43,1571.21,0,No
+CUST-5027,Professional,Month-to-month,7,94.5,661.5,1,No
+CUST-5028,Professional,Two year,40,102.05,4082.0,7,No
+CUST-5029,Professional,Month-to-month,41,99.29,4070.89,0,No
+CUST-5030,Professional,Month-to-month,23,102.19,2350.37,2,No
+CUST-5031,Basic,Two year,38,26.99,1025.62,2,Yes
+CUST-5032,Enterprise,One year,16,316.26,5060.16,2,Yes
+CUST-5033,Basic,One year,46,38.84,1786.64,3,No
+CUST-5034,Professional,One year,24,110.98,2663.52,0,Yes
+CUST-5035,Professional,One year,24,113.73,2729.52,3,Yes
+CUST-5036,Basic,Month-to-month,28,36.46,1020.88,1,No
+CUST-5037,Professional,Month-to-month,2,96.17,192.34,0,No
+CUST-5038,Enterprise,Two year,21,307.43,6456.03,3,Yes
+CUST-5039,Professional,One year,6,108.67,652.02,2,No
+CUST-5040,Basic,Two year,34,42.64,1449.76,0,No
+CUST-5041,Basic,One year,20,34.79,695.8,0,No
+CUST-5042,Basic,One year,18,27.19,489.42,1,No
+CUST-5043,Basic,One year,17,31.09,528.53,4,No
+CUST-5044,Professional,Two year,40,103.08,4123.2,0,Yes
+CUST-5045,Professional,Month-to-month,26,110.15,2863.9,1,No
+CUST-5046,Professional,One year,22,108.27,2381.94,1,No
+CUST-5047,Enterprise,Two year,9,302.9,2726.1,1,No
+CUST-5048,Enterprise,Month-to-month,31,318.66,9878.46,1,No
+CUST-5049,Professional,One year,48,109.14,5238.72,2,No
+CUST-5050,Enterprise,Month-to-month,21,299.93,6298.53,1,No
+CUST-5051,Professional,One year,8,96.54,772.32,4,No
+CUST-5052,Enterprise,Month-to-month,44,297.82,13104.08,3,Yes
+CUST-5053,Enterprise,One year,46,300.15,13806.9,0,No
+CUST-5054,Enterprise,Month-to-month,27,298.02,8046.54,2,No
+CUST-5055,Professional,Month-to-month,17,98.66,1677.22,2,No
+CUST-5056,Professional,Month-to-month,29,101.13,2932.77,10,Yes
+CUST-5057,Professional,Two year,33,98.33,3244.89,4,No
+CUST-5058,Professional,Two year,3,116.42,349.26,3,No
+CUST-5059,Enterprise,Two year,41,296.01,12136.41,4,Yes
+CUST-5060,Basic,Two year,43,37.11,1595.73,1,No
+CUST-5061,Basic,Two year,42,34.26,1438.92,2,No
+CUST-5062,Professional,One year,7,118.56,829.92,0,No
+CUST-5063,Enterprise,Two year,34,296.8,10091.2,2,No
+CUST-5064,Basic,One year,24,33.95,814.8,1,No
+CUST-5065,Enterprise,Two year,33,318.24,10501.92,0,No
+CUST-5066,Professional,Month-to-month,19,115.64,2197.16,1,No
+CUST-5067,Basic,Two year,10,44.43,444.3,1,No
+CUST-5068,Basic,Two year,31,30.45,943.95,1,Yes
+CUST-5069,Enterprise,Two year,29,298.27,8649.83,1,No
+CUST-5070,Enterprise,Month-to-month,2,310.72,621.44,3,No
+CUST-5071,Enterprise,Month-to-month,48,317.23,15227.04,0,No
+CUST-5072,Basic,One year,36,37.92,1365.12,1,No
+CUST-5073,Professional,Two year,12,108.29,1299.48,0,No
+CUST-5074,Professional,Month-to-month,48,101.0,4848.0,2,No
+CUST-5075,Enterprise,One year,25,313.24,7831.0,0,No
+CUST-5076,Professional,Two year,5,98.68,493.4,2,No
+CUST-5077,Enterprise,Month-to-month,24,302.09,7250.16,1,No
+CUST-5078,Professional,Two year,32,104.64,3348.48,1,No
+CUST-5079,Enterprise,One year,40,306.69,12267.6,1,Yes
+CUST-5080,Professional,One year,40,100.06,4002.4,0,No
+CUST-5081,Professional,Two year,38,96.87,3681.06,0,No
+CUST-5082,Basic,Month-to-month,20,39.27,785.4,0,No
+CUST-5083,Basic,Two year,25,31.22,780.5,1,No
+CUST-5084,Professional,One year,12,108.53,1302.36,1,No
+CUST-5085,Enterprise,Month-to-month,36,297.86,10722.96,0,No
+CUST-5086,Basic,One year,29,36.03,1044.87,2,No
+CUST-5087,Basic,One year,9,37.31,335.79,0,No
+CUST-5088,Enterprise,Two year,42,295.3,12402.6,1,No
+CUST-5089,Professional,Two year,29,102.42,2970.18,1,Yes
+CUST-5090,Basic,Month-to-month,19,27.36,519.84,0,No
+CUST-5091,Professional,Month-to-month,30,95.58,2867.4,2,No
+CUST-5092,Professional,Two year,33,118.75,3918.75,0,Yes
+CUST-5093,Enterprise,One year,35,302.06,10572.1,3,Yes
+CUST-5094,Enterprise,One year,35,314.25,10998.75,0,No
+CUST-5095,Enterprise,Two year,16,300.37,4805.92,0,No
+CUST-5096,Professional,One year,23,111.04,2553.92,3,Yes
+CUST-5097,Basic,Month-to-month,14,43.01,602.14,3,No
+CUST-5098,Professional,Two year,40,108.89,4355.6,2,No
+CUST-5099,Basic,Month-to-month,14,35.79,501.06,3,No
+CUST-5100,Enterprise,One year,39,304.3,11867.7,1,No
+CUST-5101,Enterprise,One year,19,302.72,5751.68,2,No
+CUST-5102,Enterprise,Two year,7,317.24,2220.68,0,No
+CUST-5103,Professional,Month-to-month,18,114.77,2065.86,3,Yes
+CUST-5104,Basic,Month-to-month,10,48.13,481.3,2,No
+CUST-5105,Enterprise,One year,32,297.11,9507.52,0,No
+CUST-5106,Enterprise,One year,25,312.27,7806.75,1,No
+CUST-5107,Basic,One year,33,47.46,1566.18,2,No
+CUST-5108,Professional,One year,32,98.53,3152.96,1,Yes
+CUST-5109,Enterprise,Month-to-month,47,295.66,13896.02,7,No
+CUST-5110,Enterprise,One year,5,312.53,1562.65,3,No
+CUST-5111,Professional,Month-to-month,32,108.36,3467.52,0,No
+CUST-5112,Professional,Two year,37,115.05,4256.85,0,No
+CUST-5113,Professional,Two year,4,97.49,389.96,0,No
+CUST-5114,Professional,Month-to-month,8,113.88,911.04,4,Yes
+CUST-5115,Professional,Month-to-month,28,99.04,2773.12,0,No
+CUST-5116,Basic,Two year,20,28.09,561.8,0,No
+CUST-5117,Professional,Month-to-month,42,98.11,4120.62,1,Yes
+CUST-5118,Enterprise,Two year,11,314.36,3457.96,0,No
+CUST-5119,Enterprise,Two year,15,310.63,4659.45,1,Yes
+CUST-5120,Basic,Month-to-month,14,37.08,519.12,1,No
+CUST-5121,Basic,Two year,44,32.97,1450.68,1,Yes
+CUST-5122,Professional,Month-to-month,28,115.93,3246.04,2,No
+CUST-5123,Basic,One year,6,33.81,202.86,2,Yes
+CUST-5124,Professional,One year,20,114.41,2288.2,0,No
+CUST-5125,Basic,Two year,44,34.98,1539.12,0,No
+CUST-5126,Basic,Two year,42,33.42,1403.64,0,No
+CUST-5127,Basic,Two year,48,35.57,1707.36,0,No
+CUST-5128,Enterprise,One year,14,301.53,4221.42,0,Yes
+CUST-5129,Basic,Two year,47,42.69,2006.43,1,No
+CUST-5130,Professional,Month-to-month,16,106.57,1705.12,0,Yes
+CUST-5131,Enterprise,Two year,39,299.81,11692.59,2,No
+CUST-5132,Enterprise,Month-to-month,43,316.49,13609.07,4,Yes
+CUST-5133,Enterprise,Two year,13,303.6,3946.8,2,No
+CUST-5134,Basic,Month-to-month,32,37.59,1202.88,1,No
+CUST-5135,Enterprise,Two year,5,316.66,1583.3,1,No
+CUST-5136,Professional,One year,9,109.61,986.49,1,No
+CUST-5137,Professional,One year,35,96.92,3392.2,2,No
+CUST-5138,Basic,Month-to-month,38,47.5,1805.0,0,No
+CUST-5139,Basic,Month-to-month,26,39.69,1031.94,1,No
+CUST-5140,Enterprise,One year,28,302.37,8466.36,2,Yes
+CUST-5141,Enterprise,Two year,40,297.48,11899.2,0,Yes
+CUST-5142,Basic,Two year,14,43.85,613.9,7,No
+CUST-5143,Professional,One year,38,109.5,4161.0,2,No
+CUST-5144,Enterprise,Two year,5,307.34,1536.7,1,No
+CUST-5145,Basic,Month-to-month,16,46.35,741.6,0,No
+CUST-5146,Professional,Two year,39,113.71,4434.69,0,No
+CUST-5147,Enterprise,Two year,12,297.79,3573.48,0,No
+CUST-5148,Enterprise,Month-to-month,11,301.79,3319.69,1,No
+CUST-5149,Enterprise,Two year,17,300.21,5103.57,0,No
+CUST-5150,Professional,Two year,8,112.6,900.8,3,Yes
+CUST-5151,Professional,One year,34,94.84,3224.56,0,No
+CUST-5152,Enterprise,Two year,5,308.25,1541.25,1,No
+CUST-5153,Basic,One year,37,43.06,1593.22,0,No
+CUST-5154,Basic,Two year,44,45.92,2020.48,2,No
+CUST-5155,Enterprise,Month-to-month,3,302.55,907.65,3,Yes
+CUST-5156,Basic,One year,24,44.53,1068.72,1,No
+CUST-5157,Basic,Two year,46,26.77,1231.42,2,No
+CUST-5158,Professional,Month-to-month,27,115.16,3109.32,4,Yes
+CUST-5159,Basic,Two year,24,27.19,652.56,0,No
+CUST-5160,Basic,Month-to-month,15,33.93,508.95,3,No
+CUST-5161,Professional,Month-to-month,30,113.93,3417.9,3,No
+CUST-5162,Professional,One year,6,97.75,586.5,2,Yes
+CUST-5163,Basic,One year,37,29.73,1100.01,3,No
+CUST-5164,Basic,One year,24,42.06,1009.44,2,No
+CUST-5165,Basic,Two year,35,42.0,1470.0,3,No
+CUST-5166,Basic,One year,2,40.03,80.06,0,No
+CUST-5167,Enterprise,Month-to-month,22,311.35,6849.7,0,No
+CUST-5168,Enterprise,Two year,20,307.57,6151.4,0,No
+CUST-5169,Basic,One year,32,30.29,969.28,7,No
+CUST-5170,Basic,Two year,18,32.64,587.52,0,No
+CUST-5171,Enterprise,One year,45,298.54,13434.3,4,No
+CUST-5172,Enterprise,Month-to-month,38,316.71,12034.98,0,No
+CUST-5173,Professional,Month-to-month,38,108.58,4126.04,2,No
+CUST-5174,Basic,Month-to-month,19,34.02,646.38,0,No
+CUST-5175,Professional,Two year,48,105.55,5066.4,1,No
+CUST-5176,Basic,Month-to-month,13,47.68,619.84,0,No
+CUST-5177,Basic,Month-to-month,7,27.83,194.81,0,No
+CUST-5178,Professional,Month-to-month,35,108.66,3803.1,1,No
+CUST-5179,Professional,One year,30,106.65,3199.5,0,Yes
+CUST-5180,Basic,Two year,20,39.29,785.8,3,No
